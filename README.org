@@ -4,6 +4,6 @@ Implementations of various manifold mesh algorithms
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/Shirakumo/manifolds.git |
-| commit  | 9d9139f                                        |
+| commit  | 99a855e                                        |
 | systems | manifolds                                      |
 |---------+------------------------------------------------|
