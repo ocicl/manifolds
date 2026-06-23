@@ -7,4 +7,4 @@ Implementations of various manifold mesh algorithms
 | commit  | eaecb0f                                          |
 | systems | manifolds                                        |
 |---------+--------------------------------------------------|
- 
+  
